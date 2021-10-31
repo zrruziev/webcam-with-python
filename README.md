@@ -1,5 +1,5 @@
 # webcam-with-python
-* The project was made with `Python`, `Figma`, `Tkinter` and other libraries.
+* The project was made with `Python`, `Figma`, `Tkinter`, `Tkinter-Design-Master` and other libraries.
 * You can run `webcam-picture.exe` file on Windows PC. 
 * It takes 10 pictures in one cycle.
 * If you want to customize you can use `webcam-picture.py` file.
